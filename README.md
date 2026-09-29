@@ -1,2 +1,37 @@
-# Atmosync-Micro-Climate-Arbitrage-Analytics
-AtmoSync is a micro-climate analytics project that monitors temperature, humidity, vibration, and location data from shipping containers. It identifies spoilage risks, critical shipments, and potential financial losses, helping businesses make data-driven decisions for rerouting, risk management, and alternative market opportunities.
+# AtmoSync: Micro-Climate Arbitrage Analytics
+
+## Project Overview
+
+AtmoSync is a Data Analytics project that analyzes weather and
+micro-climate data across different locations.
+
+## Objectives
+
+- Collect weather data
+- Clean and validate data
+- Perform exploratory data analysis
+- Create visualizations
+- Analyze micro-climate differences
+- Develop a Micro-Climate Score
+- Create an interactive Power BI dashboard
+- Generate actionable analytical insights
+
+## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Power BI
+
+## Project Workflow
+
+Data Collection
+→ Data Cleaning
+→ Data Analysis
+→ Visualization
+→ Micro-Climate Analysis
+→ Dashboard
+→ Insights
