@@ -1,0 +1,4 @@
+Pollution_Level,Records,Average_AQI,Average_PM2_5,Average_PM10,Average_NO2,Average_O3
+Good,6641,36.59,36.81,56.61,28.14,32.96
+Moderate,5329,65.92,68.74,107.19,44.7,33.41
+Unhealthy for Sensitive Groups,30,103.47,109.41,173.99,65.43,33.13

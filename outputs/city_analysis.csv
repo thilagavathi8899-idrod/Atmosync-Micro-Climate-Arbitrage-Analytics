@@ -1,0 +1,11 @@
+City,Average_Temperature_C,Average_Humidity_Percent,Average_Wind_Speed_kmh,Average_AQI,Average_Energy_Demand_MW,Average_Energy_Price_INR_kWh,Average_Opportunity_Score
+Ahmedabad,27.71,74.8,13.0,58.06,336.01,7.3,51.95
+Bengaluru,23.84,74.15,13.1,37.16,546.17,8.23,51.58
+Chennai,28.24,74.49,12.9,46.27,463.34,7.87,53.35
+Coimbatore,26.01,74.02,13.04,33.03,106.37,6.27,53.0
+Delhi,24.68,74.71,13.28,82.22,1330.0,11.75,48.57
+Hyderabad,27.1,73.91,12.94,51.59,433.8,7.7,51.96
+Jaipur,25.8,74.34,13.12,69.96,169.2,6.54,49.84
+Kochi,27.83,74.29,12.88,29.6,105.56,6.24,54.17
+Mumbai,27.17,74.68,12.77,48.93,856.53,9.62,52.08
+Pune,24.89,74.41,12.86,42.3,306.64,7.16,52.21
