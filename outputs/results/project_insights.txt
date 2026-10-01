@@ -1,0 +1,10 @@
+ATMOSYNC PROJECT INSIGHTS
+
+1. Highest average temperature: Mumbai
+2. Lowest average temperature: Delhi
+3. Highest average humidity: Mumbai
+4. Highest total rainfall: Hyderabad
+5. Most distinct average climate profile: Mumbai
+6. Overall average temperature: 26.36 °C
+7. Overall average humidity: 63.07%
+8. Total recorded rainfall in dataset: 992.84 mm
