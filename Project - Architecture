@@ -1,0 +1,43 @@
+                    ┌─────────────────────────┐
+                    │      IoT Sensors        │
+                    │ Temperature / Humidity  │
+                    │ Vibration / Location     │
+                    └────────────┬────────────┘
+                                 │
+                                 ▼
+                    ┌─────────────────────────┐
+                    │        Apache Kafka      │
+                    │     Real-Time Streaming  │
+                    └────────────┬────────────┘
+                                 │
+                                 ▼
+                    ┌─────────────────────────┐
+                    │       Snowflake         │
+                    │   Raw IoT + Market Data │
+                    │        Storage          │
+                    └────────────┬────────────┘
+                                 │
+                                 ▼
+                    ┌─────────────────────────┐
+                    │          dbt            │
+                    │ Data Cleaning &         │
+                    │ Transformation          │
+                    └────────────┬────────────┘
+                                 │
+                                 ▼
+                    ┌─────────────────────────┐
+                    │   Analytics Layer       │
+                    │                         │
+                    │ Temperature Analysis    │
+                    │ Humidity Analysis       │
+                    │ Spoilage Risk            │
+                    │ Commodity Price         │
+                    │ Arbitrage Opportunity   │
+                    └────────────┬────────────┘
+                                 │
+                                 ▼
+                    ┌─────────────────────────┐
+                    │     Dashboard / BI      │
+                    │  KPIs • Trends • Risk   │
+                    │  Location • Insights    │
+                    └─────────────────────────┘
