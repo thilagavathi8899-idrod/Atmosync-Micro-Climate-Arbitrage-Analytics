@@ -68,3 +68,15 @@ for analysis and visualization through Apache Superset.
 
 
 
+\## Dashboard
+
+
+
+The project uses Apache Superset to visualize the processed weather
+
+data. The dashboard includes temperature, humidity, rainfall, wind
+
+speed, pressure, weather conditions, and micro-climate score analysis.
+
+
+
