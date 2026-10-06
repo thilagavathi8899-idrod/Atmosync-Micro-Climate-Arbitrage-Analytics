@@ -80,3 +80,23 @@ speed, pressure, weather conditions, and micro-climate score analysis.
 
 
 
+\## Technologies Used
+
+
+
+\- Python
+
+\- Pandas
+
+\- NumPy
+
+\- PostgreSQL
+
+\- Apache Superset
+
+\- Docker
+
+\- Git and GitHub
+
+
+
