@@ -54,3 +54,17 @@ The project includes weather analysis, micro-climate scoring,
 
 visualizations, and a final project presentation.
 
+
+
+\## Data Processing
+
+
+
+The project processes weather data using Python and Pandas.
+
+The cleaned data is stored in CSV format and loaded into PostgreSQL
+
+for analysis and visualization through Apache Superset.
+
+
+
