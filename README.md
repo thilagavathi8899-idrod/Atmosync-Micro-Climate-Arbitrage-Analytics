@@ -142,5 +142,19 @@ between locations.
 
 
 
+\## Analysis Findings
+
+
+
+The analysis helps compare weather patterns across different
+
+locations. The dashboard makes it easier to understand changes
+
+in temperature, humidity, rainfall, wind speed, pressure, and
+
+the Micro-Climate Score.
+
+
+
 
 
