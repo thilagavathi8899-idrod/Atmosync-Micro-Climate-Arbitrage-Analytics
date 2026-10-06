@@ -100,3 +100,19 @@ speed, pressure, weather conditions, and micro-climate score analysis.
 
 
 
+\## Project Objectives
+
+
+
+\- Analyze weather conditions across multiple cities.
+
+\- Calculate a Micro-Climate Score.
+
+\- Store processed data in PostgreSQL.
+
+\- Create interactive dashboards using Apache Superset.
+
+\- Identify useful patterns and trends in weather data.
+
+
+
