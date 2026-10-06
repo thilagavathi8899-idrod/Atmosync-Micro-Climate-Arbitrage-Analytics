@@ -156,5 +156,23 @@ the Micro-Climate Score.
 
 
 
+\## Project Workflow
+
+
+
+1\. Generate and collect weather data.
+
+2\. Clean and process the data using Python.
+
+3\. Store the processed data in PostgreSQL.
+
+4\. Connect PostgreSQL with Apache Superset.
+
+5\. Create charts and dashboards for analysis.
+
+6\. Analyze weather patterns and Micro-Climate Scores.
+
+
+
 
 
