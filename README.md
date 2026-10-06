@@ -206,5 +206,19 @@ store, and visualize the weather data.
 
 
 
+\## Future Scope
+
+
+
+Future improvements can include real-time weather data,
+
+additional cities, advanced prediction models, automated
+
+data updates, and more advanced analytics dashboards.
+
+
+
+
+
 
 
