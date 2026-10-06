@@ -116,3 +116,17 @@ speed, pressure, weather conditions, and micro-climate score analysis.
 
 
 
+\## Data Source
+
+
+
+The project uses a structured weather dataset containing date,
+
+location, temperature, humidity, rainfall, wind speed, pressure,
+
+and weather condition information for multiple cities.
+
+
+
+
+
