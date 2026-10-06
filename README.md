@@ -128,5 +128,19 @@ and weather condition information for multiple cities.
 
 
 
+\## Micro-Climate Score
+
+
+
+The Micro-Climate Score is a project-specific analytical score
+
+calculated using temperature, humidity, rainfall, wind speed,
+
+and pressure. It is used to compare weather characteristics
+
+between locations.
+
+
+
 
 
