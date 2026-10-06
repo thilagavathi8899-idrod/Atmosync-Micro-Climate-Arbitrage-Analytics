@@ -174,5 +174,23 @@ the Micro-Climate Score.
 
 
 
+\## Key Features
+
+
+
+\- Multi-city weather analysis
+
+\- Data cleaning and preprocessing
+
+\- PostgreSQL database storage
+
+\- Micro-Climate Score calculation
+
+\- Interactive Apache Superset dashboard
+
+\- Weather trend and comparison analysis
+
+
+
 
 
